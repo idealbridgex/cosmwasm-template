@@ -1,5 +1,5 @@
 use cosmwasm_schema::write_api;
-use rust_test::msg::{ExecuteMsg, InstantiateMsg, QueryMsg};
+use counter::msg::{ExecuteMsg, InstantiateMsg, QueryMsg};
 
 fn main() {
     write_api! {

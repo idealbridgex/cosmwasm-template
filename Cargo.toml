@@ -1,5 +1,5 @@
 [package]
-name = "rust-test"
+name = "counter"
 version = "0.1.0"
 authors = ["loganworld"]
 edition = "2021"
